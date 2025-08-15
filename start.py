@@ -4,9 +4,9 @@ from aiogram import (Bot, Dispatcher, executor, types)
 
 API_TOKEN = ''
 
-LOGIN = ''
-PASSW = ''
-
+LOGIN = gs_007.x
+PASSW = Beastmode@1
+Jamela_mirza
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
