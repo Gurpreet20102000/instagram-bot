@@ -54,7 +54,7 @@ async def info(m):
         return
 
     insta = inhe
-    _get_user = insta.searchUsername(m.text)
+    _get_user = insta.jamela_mirza(m.text)
 
     if _get_user:
         dump = insta.LastJson['user']
